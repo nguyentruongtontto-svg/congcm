@@ -1,0 +1,12 @@
+{
+  "name": "Cổng quản lý chuyên môn – THPT Số 1 Nguyễn Trường Tộ",
+  "short_name": "QLCM NTT",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#2a2f8f",
+  "theme_color": "#2a2f8f",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
