@@ -1,6 +1,6 @@
 {
   "name": "Cổng quản lý chuyên môn – THPT Số 1 Nguyễn Trường Tộ",
-  "short_name": "QLCM NTT",
+  "short_name": "QLCM NTTO",
   "start_url": "./?app=1",
   "scope": "./",
   "display": "browser",
